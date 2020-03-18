@@ -1,5 +1,9 @@
 
-#
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
 class myData:
     year = []
     causeName113 = []
@@ -39,15 +43,55 @@ class myData:
         for x in self.causeName113:
             print(x)
 
+    def createPlot(self):
+        deathNum = self.deaths
+        del deathNum[0]
+        maxNum = self.getMaxNum(deathNum)
+        listX = self.createBinSizes(maxNum)
+        listY = self.createListY()
 
+        self.populateListY(listY, listX, deathNum)
+        plt.bar(listX,listY)
+        plt.show()
+
+
+    def populateListY(self,listY, listX, deathNum):
+        for i in deathNum:
+            for j in range(0,len(listX)):
+                if int(i) < listX[j]:
+                    listY[j] = listY[j] + 1
+                    break
+
+    def createListY(self):
+        ans = []
+        for x in range(0,52):
+            ans.append(0)
+        return ans
+
+    def createBinSizes(self, maxNum):
+        binSize = int(maxNum)/50
+        bin = []
+        binNum = 0
+        for x in range(0,52):
+            bin.append(binNum)
+            binNum = binNum + binSize
+        return bin
+
+
+    def getMaxNum(self, list):
+        num = 0
+        for x in list:
+            if int(x) > int(num):
+                num = x
+        return num
 
 f = open("Data.txt", "r")
 
 suicide = myData(f)
-# print(suicide.deaths[10])
 
-from matplotlib import pyplot as plt
-import numpy as np
-import pandas as pd
+suicide.createPlot()
+
+
+
 
 
