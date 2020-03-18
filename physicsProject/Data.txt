@@ -1,0 +1,919 @@
+Year	113 Cause Name	Cause Name	State	Deaths	Age-adjusted Death Rate
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	4294	10.5
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	4214	10.5
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	4167	10.3
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	4025	10.2
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	3996	10.4
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	3913	10.3
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	3893	10
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	3823	10.2
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	3775	10.3
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	3602	9.9
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	3488	12.6
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	3403	12.5
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	3397	9.9
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	3368	9.7
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	3334	9.3
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	3254	12.2
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	3228	9.6
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	3206	9.1
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	3205	14.4
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	3143	14
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	3077	9.6
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	3059	11.7
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	3037	11.9
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	3035	13.9
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	3002	14.4
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	2969	9.1
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	2928	13.8
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	2896	11.5
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	2891	11.8
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	2880	13.9
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	2858	14.4
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	California	2831	8.5
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	2809	11.6
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	2789	13.7
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	2740	13.9
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	2587	13.2
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	2552	10.8
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	2440	12.6
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	2433	10.5
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	2418	10.9
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	2389	13
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	2363	11.1
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	2347	12.5
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	2347	10.3
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	2338	13.3
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	2314	13.5
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	2311	11.1
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	2300	10.7
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	2297	12.8
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	2225	10.9
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	2086	12.4
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	2053	10.2
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Florida	2029	12.2
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Texas	2005	10.2
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1970	14.7
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1894	14
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1817	13.3
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1788	13.4
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1747	13.2
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1708	8.3
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1707	14.2
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1700	8.1
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1687	8.1
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1679	8.1
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1658	8.2
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1652	7.8
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1650	13.9
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1647	12.4
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1631	12.2
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1576	11.9
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1547	7.7
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1542	13
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1539	11.8
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1526	12.9
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1491	12.6
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1465	12.3
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1441	11.1
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1439	12.2
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1430	11.1
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1417	7
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1415	10.7
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1412	12.2
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1410	11.1
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1410	13.8
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1409	7.1
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	1409	13.3
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	1406	13.4
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1398	10.5
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1396	10.8
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1396	7.1
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	1373	13
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1364	13.3
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1363	10.3
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1356	10.8
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1354	13.3
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	1352	13.1
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1341	10.7
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1341	11.5
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1340	10.6
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1326	6.7
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1325	11.3
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1321	9.9
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1319	11.4
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	1317	12.7
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1295	11.1
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1295	12.9
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	1295	12.6
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1292	9.8
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1287	11.2
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	1286	12.7
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1284	10.3
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	1284	12.6
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Pennsylvania	1276	10.2
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	1276	18.2
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	1271	17.7
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1263	12.5
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1261	12.5
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1253	6.5
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	1244	18
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1228	6.3
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1226	9.3
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1221	12.2
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1219	10.6
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	1213	12.3
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	1212	12
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1198	9.3
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1196	6.3
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1189	6
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1187	6
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1180	11.8
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1178	9
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1177	9.1
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1176	10
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	1174	12.2
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	1174	12
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1169	5.9
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1169	11.5
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	1168	11.7
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	1168	20.5
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	1166	13.2
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	1163	17.5
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	1162	12.3
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	1160	17.8
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	1157	11.7
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	1156	17.3
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1145	9.2
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	1141	14.9
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1139	9.2
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1139	11.2
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	1137	15.4
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	1134	11.9
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	1133	11.7
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	1133	18.4
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New York	1132	5.9
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1131	11.1
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	1123	12.9
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	1119	15.2
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	1118	12.7
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	1111	16.3
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1108	11
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1108	8.6
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1106	11.1
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	1106	12.2
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1102	9.7
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1098	10.9
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	1093	17
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	1093	19.5
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1088	9.5
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1086	8.6
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	1083	19.9
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	1077	11.6
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Ohio	1074	9.3
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	1072	12.5
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	1068	15.7
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	1063	12.7
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	1060	16.7
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	1054	12.6
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	1052	19.7
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	1052	17.1
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1051	10.5
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	1038	14.5
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	1034	15.4
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	1030	15.4
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	1029	10.2
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1028	8.1
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	1027	11.9
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	1027	14.1
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	1021	14.3
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1020	8.3
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	1017	16.3
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	1016	16.5
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1011	8
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1010	7.9
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	1009	11.5
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	1007	18.6
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Illinois	1003	8.1
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	997	12
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	997	10.9
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	997	14.8
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	986	11.8
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	981	10.4
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	979	16.3
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	978	14.6
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	974	9.9
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Michigan	974	9.9
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	973	11.3
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	973	15.1
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	972	11.6
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	972	15.5
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	971	12
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	963	11.7
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	963	11.7
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	960	15.6
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	960	14.4
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	957	13.9
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	955	11.2
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	955	14.4
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	948	11.8
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	948	14.3
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	947	14.6
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	945	16.4
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	944	14.3
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	943	14.6
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	941	18.7
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	940	14.3
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	935	11.4
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	933	15.3
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	924	10.6
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	923	10.3
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	921	13.3
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	914	14.9
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	913	17.5
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	909	11.1
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	889	13.2
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	886	16.6
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Carolina	884	11
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	881	13.5
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	880	15.8
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	880	11.1
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	877	14.7
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	876	11.1
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	874	14.1
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	873	11.2
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	866	11.2
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	866	14.7
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	865	13.1
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	865	16.8
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	864	13.1
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	860	14.3
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	856	14
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	856	14
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	850	14.4
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Georgia	847	10.7
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	844	13.4
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	840	15.5
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	830	13.3
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	828	10.9
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	828	12.8
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	824	13
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	822	12.8
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	822	21
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	816	14
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	815	15.7
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	811	13.4
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	811	16.6
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	809	12.3
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	809	12.6
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	808	10.9
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	808	13.5
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	803	13.1
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	803	16.1
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	800	17.2
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	799	10.9
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	799	13.5
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	797	11
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	797	17.2
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	793	13.4
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	792	13.2
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	791	11.2
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	790	12.3
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	790	20.3
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	789	8.3
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	788	15.7
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	786	8.3
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	784	15.6
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	782	18.6
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	779	13
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	778	13.3
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	776	17.1
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	772	17.8
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	769	13.1
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Virginia	768	10.8
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	767	14.8
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arizona	766	15.5
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	762	12.9
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	762	17.8
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	757	8
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	756	16.8
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	753	15.2
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	750	14.9
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	745	11.9
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	745	12.8
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	745	13.2
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	743	12.1
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	743	12.8
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	742	14.8
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	736	11.9
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	736	19.1
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	730	12.7
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	730	15.3
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	730	13.2
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	729	12.7
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	728	16.1
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	728	16
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	727	12.4
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	727	16.2
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	727	12.5
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	726	12.7
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	725	12.8
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	724	12.5
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	724	14.7
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	724	16.2
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	724	17.8
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	723	12.4
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	722	16.5
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	722	15.2
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	721	14.4
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	719	7.7
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	715	11.7
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	715	12.4
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	715	14.5
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Washington	712	11.9
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Tennessee	711	12.2
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	704	11.3
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	701	15.6
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	700	12.6
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	699	12.5
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	698	16.8
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	696	14
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	693	12.1
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	693	18.5
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	689	7.5
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	687	7.2
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	686	12.2
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	685	17.1
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	683	11.3
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	683	12.5
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	683	7.4
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Missouri	679	11.8
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	679	14
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	679	14.3
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	678	12.1
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	677	14.2
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	675	15.2
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	673	13.7
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	673	13.7
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	670	12
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	670	17.6
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	665	17.2
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	662	11.9
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	658	13.6
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	656	16.6
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	656	12
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	654	13.2
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	650	21.4
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	649	15.1
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	647	11.6
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	644	16.2
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	643	11.6
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	642	8.9
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	639	11.7
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	637	13.5
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	631	14.2
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	631	8.8
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	630	22.4
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Indiana	628	10.4
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	627	11.3
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	622	14.6
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	620	21.8
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	619	13
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	618	16.5
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	615	6.8
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	613	14.3
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	612	14
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	606	11.2
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	606	9.8
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	604	12.6
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	604	8.7
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	598	8.8
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	597	6.8
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	596	6.7
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	596	11.2
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	596	8.2
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	594	15.3
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	593	11.1
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	592	16.2
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	592	12.4
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	592	13.5
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wisconsin	590	10.9
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	588	6.8
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	588	6.7
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	586	9.4
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	585	6.5
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	585	8.4
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	584	10.8
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	583	13.1
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	583	9.5
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	583	12.4
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	580	12.4
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	579	15.3
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	579	21.4
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	577	19.1
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	575	15.7
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Colorado	574	13.7
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	573	12.5
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	573	19.6
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	572	10.8
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	572	14.5
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	572	8.2
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	569	9.2
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	567	13.6
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	567	15.3
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	567	12.4
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	566	13.4
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	565	12
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	563	6.6
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	560	6.6
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	560	13.3
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	560	14.9
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	559	20.5
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	558	9.2
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	558	18.4
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	557	6.2
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	557	12.3
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	555	12.5
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	555	15.1
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	555	18.2
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	554	10.6
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	553	6.3
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	553	8.8
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	551	9.3
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	550	21
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	547	10.5
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	547	19.8
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	541	11.7
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	541	18.6
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	540	13
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	537	11.9
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	537	15
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Jersey	536	6.1
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	535	11.5
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	532	12
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	531	14.7
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	530	11.6
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	530	7.8
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	528	19.7
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	524	10.2
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	524	11.8
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	524	18.2
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	522	14.8
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	522	12
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	521	12.8
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	521	11.4
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	518	11.9
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	518	14.4
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	518	9
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	516	7.7
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	516	18.4
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	516	17.3
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	515	14.9
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	515	17.3
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	514	11.5
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	514	17.9
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alabama	512	11.4
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	510	11.8
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	509	7.5
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	507	8.7
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	506	14.4
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	505	14.4
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	505	11
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	505	18.7
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	502	8.3
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	502	19.4
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	502	17.4
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	501	14.4
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	500	8.8
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	500	23.7
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	499	11.2
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	497	14.6
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	497	9.8
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	497	9.8
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	495	12.1
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	495	8.6
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	493	14.1
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	493	11.2
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	492	14.4
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	492	11.5
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	491	8.9
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	490	10.9
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	486	19.3
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	485	16.3
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	482	11.3
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	480	9.6
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	480	7.2
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	480	19.8
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oregon	478	13.9
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	477	8.8
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	477	16.3
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Oklahoma	476	13.7
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	476	11.5
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	474	9
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	473	18.3
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	472	8.4
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	471	18
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	471	22.5
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kentucky	470	11.6
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	468	10.7
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	467	11.4
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	462	16
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Louisiana	461	10.3
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	455	15.7
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	454	8.4
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	451	14.6
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	450	6.7
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	449	17.9
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	449	21
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	447	15.5
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	447	15.5
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	447	14.4
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	443	11.1
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	442	21.3
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	440	8.9
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	440	10.8
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	440	18.9
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Minnesota	437	9
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	436	6.6
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maryland	435	8.3
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	434	19.9
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	433	6.5
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	433	13.9
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	431	6.7
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	431	20.3
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	431	14
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	426	6.5
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	425	6.4
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	425	14.7
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	423	19.7
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	422	14.5
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	422	13.9
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	420	20.3
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	419	20.9
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Carolina	418	10.5
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	413	20.1
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	410	14
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	409	13.9
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	407	12.9
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	404	21.3
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	402	14.2
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	401	20.3
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	401	14
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	400	20.2
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	400	14.3
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	397	10.1
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	396	13.6
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	394	13.8
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	390	15.9
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	389	13.1
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	388	13
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	388	13
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Massachusetts	387	6
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nevada	387	18.7
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	384	9.9
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	383	12.7
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	383	12.7
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	382	14.3
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	382	13.7
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	382	13.6
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	381	13.1
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	380	12.6
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	380	12.5
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	379	13.9
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	379	9.8
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	378	15.8
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	377	14
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	377	17.2
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	376	13.3
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	376	18.2
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	374	13.6
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	372	12.1
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	370	13.7
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	370	9.8
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	368	9.9
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	363	12.7
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	362	20.3
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	362	13.3
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	362	16
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	362	19.3
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	361	13
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	361	11.9
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	359	18.1
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	359	22.1
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	356	18.8
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	353	9.4
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	352	11.9
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	352	17.9
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	351	21.4
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	350	12.2
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	349	13
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	349	19.2
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	348	15.4
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	347	12.8
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	345	12.7
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	343	12.2
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	343	18.6
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	343	11.5
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	342	17.8
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	340	16.2
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	340	17.4
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	337	12.1
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Arkansas	336	12.6
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	336	11.9
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	336	15.4
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	334	11.2
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	333	11.2
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	330	8.7
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	328	11.7
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	327	18.3
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	326	17.1
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	325	12.2
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	325	11.4
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	323	16.4
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	322	10.7
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	321	15.5
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	320	20
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Mexico	318	18.1
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	316	8.5
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	315	8.5
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	314	10.7
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	308	19.2
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	306	15.9
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	305	10.3
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	304	11
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	304	8.8
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	304	10.2
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	304	20.3
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	300	15.7
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	299	11.2
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	298	14.7
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	297	19
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	295	8.1
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Mississippi	294	10.5
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	294	8.2
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Kansas	293	10.9
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	292	8
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	290	18.8
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Iowa	289	9.8
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	286	15
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	285	15.4
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	283	8.1
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Utah	282	14
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	281	18.2
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	279	14.1
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	276	14.9
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	274	7.9
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	272	7.5
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	272	25.3
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	271	7.3
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	269	14
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	267	25.9
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	266	14
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	261	13.7
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Connecticut	260	7.3
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	255	13.2
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	253	13.1
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	252	16.7
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	251	23.9
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	251	13.4
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	247	17.8
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	246	13.1
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	245	13.2
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	245	17.4
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	244	17.2
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	243	23.7
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	236	17.6
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	235	16.6
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	235	16
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	233	22.6
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	232	22.5
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	232	12.5
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	West Virginia	229	12.1
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	228	16.5
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	228	16.5
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	227	21.8
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	226	15.9
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	223	15
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	223	11.7
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	222	15.8
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	220	11.6
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	220	15.7
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	219	21.2
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	217	16.4
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	210	16.3
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	209	14.5
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	207	15
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	206	21.7
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	204	13.8
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	203	20.6
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	202	15.5
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	202	11.2
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	202	14.1
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	201	11.8
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	201	26.9
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	201	13.5
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	198	13.8
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	197	14
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	196	19.4
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	196	14.1
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	193	11.3
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	193	10.4
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	193	10.5
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	193	25.8
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	191	13.6
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	191	10.6
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	190	13.1
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	189	19.7
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	187	10.9
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	187	10.9
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	186	13.2
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	185	12.8
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	184	20
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	181	14.8
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	181	10.1
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	181	12.7
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	181	12.8
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	180	19.5
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	179	13.1
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	177	10.5
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	176	10.2
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	175	13.4
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	175	19.3
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	175	18.8
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	175	12.4
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	175	12.5
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	174	12.1
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	173	20.4
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	171	12.4
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	171	29.6
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	171	23.2
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	171	11.8
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	170	9.3
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	169	24.4
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	168	23
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Idaho	167	13.3
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	167	13.2
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	167	22.1
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	166	12.5
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Nebraska	166	9.5
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	166	11.9
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	164	22.8
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	163	20.2
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	162	17.7
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	162	12
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	161	12.1
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Montana	158	17.5
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	158	12
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	158	11
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	158	11.2
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	157	28
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	155	23
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	154	11.8
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	151	11.2
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	149	22.6
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	147	18
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	144	25.2
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	143	20
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	143	20
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	141	16.8
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	141	17.1
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	140	17.5
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	140	19
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	137	11.2
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	137	21.5
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	137	11.2
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Maine	137	10
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	137	17.8
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	136	11.1
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	136	10.9
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	135	19.9
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	133	9.9
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	133	9.5
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	133	9.7
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	132	20.8
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	132	10.3
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	132	23.2
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	132	12.2
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	New Hampshire	131	10.3
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	131	10.2
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	131	19.9
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	131	22.4
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	129	16.3
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	129	12.3
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	129	21.5
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	128	15.7
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	128	17.3
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	127	11.2
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	126	13.2
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	126	11.2
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	125	16
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	125	13.2
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	124	20.3
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	124	15.7
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	124	22.6
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	124	18.7
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	124	17.5
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	122	12.5
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	122	12.6
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	121	15.4
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	120	9.5
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	120	9
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	120	17.8
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	120	20.6
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	119	11.5
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	118	10.8
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	118	17.3
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	116	8.9
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	116	21.7
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	113	10.1
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	112	14.8
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	112	16.8
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	111	20.4
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	110	9.9
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	109	21.8
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	109	11.9
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	108	13.5
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Hawaii	107	8.2
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	107	11.7
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	106	11.3
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	106	15.6
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	106	15.7
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	106	14.9
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	105	14
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	105	20.8
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	105	11
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	105	15.2
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	105	9.5
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	103	13.7
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	103	14.8
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	102	15.9
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	102	13.5
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	102	12.5
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	101	19.3
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	101	8.9
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	98	20.3
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Alaska	96	16.8
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	96	9.1
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	96	8.8
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	95	12.7
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	95	10.6
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	95	14.2
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	South Dakota	94	12.3
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	94	11.4
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	94	14.1
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	93	11
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	93	14.5
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	92	14.3
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	92	13.7
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	91	14.3
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	91	10.3
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	90	17.3
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	90	13.3
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	90	8.2
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	90	13.9
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	89	13.9
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	88	8.1
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	88	17.5
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	87	13
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	87	13
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	86	11
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	86	7.9
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	86	13.1
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	85	7.6
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	84	7.7
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	83	16.8
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Wyoming	83	16.4
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	83	13
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	83	9.7
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	82	10.4
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	81	12.3
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	81	12.2
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	79	12.7
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	78	12.5
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	77	12.3
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	75	7.1
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Delaware	74	9.1
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	73	11.1
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	73	11.1
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	72	11.4
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Rhode Island	71	6.3
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	North Dakota	68	10.4
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	Vermont	63	10.3
+2014	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	52	7.8
+2008	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	43	7.3
+2010	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	41	6.9
+2001	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	40	6.5
+2016	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	40	5.2
+2013	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	38	5.7
+2011	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	37	5.6
+2012	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	37	5.7
+2003	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	36	6.1
+2007	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	36	6
+2015	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	34	4.9
+2004	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	33	5.5
+2005	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	33	5.4
+2002	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	31	5.2
+1999	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	30	5.1
+2006	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	30	5.2
+2009	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	29	4.4
+2000	Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)	Suicide	District of Columbia	23	3.8
