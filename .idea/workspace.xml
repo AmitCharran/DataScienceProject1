@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d2bfb190-1c85-46e3-80dc-360120cdd097" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/physicsProject/physicsProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/physicsProject/physicsProject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/physicsProject/Main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/physicsProject/physicsProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/physicsProject/AmitCharranPhysicsProjectCode.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +40,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/physicsProject/physicsProject.py">
+        <entry file="file://$PROJECT_DIR$/physicsProject/AmitCharranPhysicsProjectCode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="249" column="54" selection-start-line="249" selection-start-column="54" selection-end-line="249" selection-end-column="54" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -71,18 +69,6 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/physicsProject/Data.txt">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/physicsProject/Main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-226">
-              <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
-              <folding>
-                <element signature="e#2#33#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -205,7 +191,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/physicsProject/physicsProject.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/physicsProject/AmitCharranPhysicsProjectCode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,17 +224,18 @@
       <workItem from="1585250667512" duration="1120000" />
       <workItem from="1585583935625" duration="3282000" />
       <workItem from="1585681322202" duration="942000" />
-      <workItem from="1587324328311" duration="10325000" />
+      <workItem from="1587324328311" duration="11078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59153000" />
+    <option name="totallyTimeSpent" value="59906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1226" height="708" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19087838" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19087838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -267,7 +254,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.18496622" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.18496622" />
       <window_info anchor="right" id="Database" order="4" weight="0.32956383" />
     </layout>
   </component>
@@ -341,13 +328,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/physicsProject/physicsProject.py">
+    <entry file="file://$PROJECT_DIR$/physicsProject/AmitCharranPhysicsProjectCode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="249" column="54" selection-start-line="249" selection-start-column="54" selection-end-line="249" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
